@@ -1,2 +1,2 @@
-# Arminareka
-Mobile Arminareka
+# BrainhackingOnTheStreets
+Mobile BHOTS
